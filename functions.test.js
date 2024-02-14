@@ -16,7 +16,7 @@ test('adds 2 numbers', () =>{
 
 describe("Math Challenge!", () => {
     test("Add", () => {
-        expect(myFunctions.add(14, 6)).toBe(20)
+        expect(myFunctions.add(10, 5)).toBe(15)
     })
     test("Subtract", () => {
         expect(myFunctions.subtract(11, 3)).toBe(8)
